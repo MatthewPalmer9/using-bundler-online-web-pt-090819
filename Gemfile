@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-require_relative '../bin/ruby.rb'
 
 gem "sinatra", '1.4.4'
 gem "hashie"
